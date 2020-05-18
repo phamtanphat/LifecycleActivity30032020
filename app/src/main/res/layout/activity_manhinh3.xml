@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#65AF89"
-    tools:context=".MainActivity">
+    android:background="#7E57C2"
+    tools:context=".Manhinh3Activity">
 
     <Button
-        android:id="@+id/buttonNavigateScreen2"
+        android:id="@+id/buttonNavigateScreen1"
         android:layout_centerInParent="true"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Navigate Screen 2"/>
-
+        android:text="Navigate Screen 1"/>
 </RelativeLayout>
